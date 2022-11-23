@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+.bg-warning {
+  background-color: #FFC107 !important;
+}
+
+.bg-main {
+  background-color: #343A40;
+}
+
+.icon-profile:hover{
+  background-color: #ffc10776;
+  border-radius: 30%;
+  padding: 3px;
+  box-shadow: 0px 0px 4px #343A40;
+}
+
+.bg-slide {
+  background-color: #B2B1B9;
+}
